@@ -11,6 +11,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'TheMovieDB APK',
+      home: Scaffold(
+        body: AppBar(
+          backgroundColor: Colors.blue,
+        ),
+      ),
     );
+    
   }
 }
