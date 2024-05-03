@@ -1,6 +1,6 @@
 # movie_api
-
-A new Flutter project.
+\
+Rest API Movie Application using Flutter and Riverpod.
 
 ## Getting Started
 
