@@ -1,4 +1,4 @@
-# movie_api
+# TheMovieDB APK
 \
 Rest API Movie Application using Flutter and Riverpod.
 
