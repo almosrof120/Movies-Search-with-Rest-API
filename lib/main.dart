@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
           ),
           elevation: 0,
         ),
-        backgroundColor: const Color.fromARGB(129, 56, 222, 214),
+        backgroundColor: Colors.white,
         body: Container(
 
         ),
