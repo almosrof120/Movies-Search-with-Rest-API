@@ -9,8 +9,6 @@ class SplashScreen extends StatefulWidget {
 }): super(Key: key);
 
 
-
-
   @override
   State<StatefulWidget> createState() => _MyWidgetState();
 }
